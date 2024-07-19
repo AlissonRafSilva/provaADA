@@ -1,5 +1,5 @@
 Apresentação do Projeto: provaADA
-Introdução
+
 Olá a todos, meu nome é Alisson Rafael da Silva e estou aqui para apresentar o meu projeto desenvolvido para a etapa do Coding Tank do Santander Coders. Estou animado para compartilhar com 
 vocês o projeto que criei para resolver o calculo dos salários com as informações apresentadas pelos professores:
 
@@ -32,6 +32,7 @@ Acima de 4.664,68	27,50%
 
 
 Agradecimentos
-Gostaria de agradecer ao Santander Coders pela oportunidade de participar desta competição e a todos que me apoiaram neste projeto. Estou aberto a perguntas e feedbacks.
+Gostaria de agradecer aos professores Rodolfo e Lucas pelas aulas maravilhosas e muito bem explicadas e quero agradecer tambem ao Santander Coders pela oportunidade de participar desta competição
+e a todos que me apoiaram neste projeto. Estou aberto a perguntas e feedbacks.
 
 Muito obrigado pela atenção!
